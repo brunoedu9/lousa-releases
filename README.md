@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/brunoedu9/lousa-releases/main/icon.png" alt="" width="72" align="left" />
+
 # Lousa
 
 Editor de diagramas para Windows: fluxogramas, redes, arquitetura e organogramas, tudo offline, com os documentos guardados no seu próprio computador.
